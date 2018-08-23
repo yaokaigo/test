@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd
+
+">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://444-1251502477.cos.ap-chengdu.myqcloud.com/%E6%B5%8B%E8%AF%95/iOS.%E5%92%8C%E8%AE%B0%E5%A8%B1%E4%B9%90-resigned(3).ipa?q-sign-algorithm=sha1&q-ak=AKIDV35vU3zZYOR8cj7ZV3DzEFza0YZyyOmi&q-sign-time=1535029951;1535031751&q-key-time=1535029951;1535031751&q-header-list=&q-url-param-list=&q-signature=e83d262bfca10f1de12ceaff12979926d57d0033&x-cos-security-token=c0ffcdefe77418db9f0b4c85f18ba475c02bbeb610001&response-content-disposition=attachment</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.aruistar.cmcapp</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>cmcapp</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
